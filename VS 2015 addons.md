@@ -11,12 +11,10 @@ Search your C, C++, C#, XAML, and any text file instantly. Form a better query w
 ### [C# Analyzers and Refactorings](https://visualstudiogallery.msdn.microsoft.com/e83c5e41-92c5-42a3-80cc-e0720c621b5e?SRC=VSIDE/)
 Roslyn-based extension that offers 80+ analyzers and 130+ refactorings for C#.
 
-### Code Cracker
-[https://github.com/code-cracker/code-cracker](https://github.com/code-cracker/code-cracker/)
+### [Code Cracker](https://github.com/code-cracker/code-cracker/)
 An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties. [http://code-cracker.github.io](http://code-cracker.github.io/)
 
-### Refactoring Essentials
-[http://vsrefactoringessentials.com](http://vsrefactoringessentials.com/)
+### [Refactoring Essentials](http://vsrefactoringessentials.com/)
 The premier free Visual Studio 2015 extension for C# and VB.NET refactorings, including code best practice analyzers to improve your projects.
 
 
